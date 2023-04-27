@@ -7,5 +7,7 @@ Steps to execute script:
 4. Click on "Activate Cloud shell" to launch terminal
 5. Upload "create_vm_in_gcp.py" script
 6. Check google-api-python-client is installed or else please run "pip install google-api-python-client" before executing.
-7. Run script in Terminal
-8. Check VM with given name is created
+7. Update Project name, zone & VM name in script.
+8. Run script in Terminal
+9. Check VM with given name is created
+10. After using delete VM
